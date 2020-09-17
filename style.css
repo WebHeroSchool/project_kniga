@@ -15,35 +15,35 @@ body {
 }
 
 .header__secondary {
-    color: white;
-    font-size: 20px;
-    text-align: left;
-  }
+  color: white;
+  font-size: 20px;
+  text-align: left;
+}
 
 .header_title {
-   text-transform: uppercase;
-  }
+  text-transform: uppercase;
+}
 
 .main {
-    margin: 20px;
-  }
+  margin: 20px;
+}
 
 .main__container {
-   color: #000;
- }
+  color: #000;
+}
 
 .main__row {
-   color: #000;
- }
+  color: #000;
+}
 
 .round {
-   width: 150px;
-   height: 150px;
-   border-width: 10px;
-   border-style: outset;
-   border-color: #000;
-    }
+  width: 150px;
+  height: 150px;
+  border-width: 10px;
+  border-style: outset;
+  border-color: #000;
+}
 
 .footer {
-      text-align: center;
-    }
+  text-align: center;
+}
